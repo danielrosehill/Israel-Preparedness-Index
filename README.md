@@ -16,6 +16,22 @@ AI assistant configuration for providing Home Front Command guidelines.
 
 ---
 
+### JLM Shelter Agent
+
+AI agent for the JLM Shelter app/project.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/JLM-Shelter-Agent)
+
+---
+
+### Oref GPT
+
+N8N automation that uses TwitterAPI.io to retrieve real-time social media data about the source of rocket alerts in Israel.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Oref-GPT)
+
+---
+
 ### OSINT Missile Intelligence Agent
 
 Snap reports about causes and quantitative info about hostile missile launches.
@@ -25,6 +41,14 @@ Snap reports about causes and quantitative info about hostile missile launches.
 ---
 
 ## Context
+
+### Israel News RSS Feeds
+
+Collection of RSS feeds about news in Israel.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
+
+---
 
 ### Pikud HaOref Guidelines (03/26)
 
@@ -44,6 +68,32 @@ Syntax notes for those automating on the back of the IDF Home Front Command aler
 
 ---
 
+## Geopolitics / Situational Awareness
+
+### Geopolitical Analysis System Prompts
+
+System prompts for geopolitical related AI assistants and tools.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
+
+---
+
+### Israel SITREP Generation Prompts
+
+Prompts to generate situational reports (SITREPs) summarising geopolitical developments in Israel & the Middle East (for LLMs).
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-SITREP-Generation-Prompts)
+
+---
+
+### SITREP Examples
+
+Examples of situational reports (SITREPs) to guide agentic generation or general authorship.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/SITREP-Examples)
+
+---
+
 ## Guides
 
 ### Israel Civilian Readiness Guide
@@ -54,9 +104,19 @@ A consolidated series of readiness checklists, SOPs, and peacetime prep guides. 
 
 ---
 
+### Israel First Aid
+
+First aid procedures and decision-making flowchart based on MDA/Hatzalah procedures.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-First-Aid)
+
+---
+
 ## Home Assistant
 
-### HA Red Alert News Dash
+### Alerts
+
+#### HA Red Alert News Dash
 
 A Home Assistant dashboard for emergency alerts (Tzeva Adom) in Israel with and without live news.
 
@@ -64,7 +124,9 @@ A Home Assistant dashboard for emergency alerts (Tzeva Adom) in Israel with and 
 
 ---
 
-### HA Red Alerts Model Automations
+### Automations
+
+#### HA Red Alerts Model Automations
 
 A few automations and hardware recommendations for HA + Pikud HaOref integration.
 
@@ -74,11 +136,27 @@ A few automations and hardware recommendations for HA + Pikud HaOref integration
 
 ## Miklats
 
+### JLM Shelters Data
+
+Community-maintained dataset of public bomb shelters in Jerusalem. Data pipeline for [jlmshelters.com](https://jlmshelters.com).
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/jlm-shelters-data)
+
+---
+
 ### Miklat MCP
 
 MCP to enable AI agents to guide users towards miklatim tziburim (public shelters) in Israel.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Miklat-MCP)
+
+---
+
+### Miklat MCP Data
+
+Data pipeline for Miklat MCP.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Miklat-MCP-Data)
 
 ---
 
@@ -134,5 +212,15 @@ Readiness SOPs for wartime in Israel.
 Claude workspace for preparedness planning (template).
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Preparedness-Planner)
+
+---
+
+## Workflows
+
+### Israel Morning News Briefs (N8N + Perplexity Sonar)
+
+Using Perplexity API structured prompting and N8N to deliver a tailored news brief.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar)
 
 ---
