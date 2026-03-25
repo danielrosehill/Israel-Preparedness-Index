@@ -96,6 +96,14 @@ Examples of situational reports (SITREPs) to guide agentic generation or general
 
 ## Guides
 
+### HFC Guidance Flip Book
+
+Pikud HaOref guidance in a visual presentation for younger audiences.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HFC-Guidance-Flip-Book)
+
+---
+
 ### Israel Civilian Readiness Guide
 
 A consolidated series of readiness checklists, SOPs, and peacetime prep guides. Intended for civilian use in Israel. Non-official, but based on gov resources.
