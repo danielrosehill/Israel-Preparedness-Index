@@ -1,4 +1,4 @@
-# Israel Preparedness Index
+# Israel Preparedness Repos - Index
 
 [![Master Index](https://img.shields.io/badge/Master_Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
 
@@ -108,17 +108,12 @@ Microservices Docker stack for Pikud HaOref red alert monitoring, home automatio
 
 #### Stack Components
 
-- **Oref Alert Proxy** — Local relay proxy for Pikud HaOref alert data
-  [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Oref-Alert-Proxy)
-
-- **Red Alert Actuator** — Physical alert outputs (Snapcast TTS + MQTT lights)
-  [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Actuator)
-
-- **Red Alert Geodash** — Real-time dashboard with multi-map Leaflet views and polygon overlays
-  [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Geodash)
-
-- **Red Alert Pushover** — Pushover notifications for large-scale alert events
-  [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Pushover)
+| Component | Description | Repo |
+|-----------|-------------|------|
+| Oref Alert Proxy | Local relay proxy for Pikud HaOref alert data | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Oref-Alert-Proxy) |
+| Red Alert Actuator | Physical alert outputs (Snapcast TTS + MQTT lights) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Actuator) |
+| Red Alert Geodash | Real-time dashboard with multi-map Leaflet views and polygon overlays | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Geodash) |
+| Red Alert Pushover | Pushover notifications for large-scale alert events | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Pushover) |
 
 ---
 
