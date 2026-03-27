@@ -186,6 +186,14 @@ A curated list of red alert (צבע אדום) civilian notification projects for
 
 ---
 
+### Israel Alert Map
+
+Android app for real-time visualization of Pikud HaOref alerts on an interactive Leaflet map. Features national map, Jerusalem close-up, scrollable alert feed, and local area alert overlay with audio/vibration/speech.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Alert-Map)
+
+---
+
 ### Israel Emergency Readiness PWA
 
 Interactive PWA for Israel wartime emergency preparedness, based on Home Front Command guidance.
