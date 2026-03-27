@@ -8,6 +8,14 @@ Index of repositories related to civilian emergency preparedness in Israel, incl
 
 ## AI Agents
 
+### Readiness Voice Agent
+
+Voice agent implementation for readiness checklists.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Readiness-Voice-Agent)
+
+---
+
 ### Israel Preparedness Guidelines AI Assistant
 
 AI assistant configuration for providing Home Front Command guidelines.
