@@ -215,8 +215,7 @@ Microservices Docker stack for Pikud HaOref red alert monitoring, home automatio
 | Oref Alert Proxy | Local relay proxy for Pikud HaOref alert data | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Oref-Alert-Proxy) |
 | Red Alert Actuator | Physical alert outputs (Snapcast TTS + MQTT lights) | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Actuator) |
 | Red Alert Geodash | Real-time dashboard with multi-map Leaflet views and polygon overlays | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Geodash) |
-| Red Alert Pushover | Pushover notifications for large-scale alert events | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Pushover) |
-| Red Alert OSINT Notifier | Unified notification + OSINT: Telegram monitors, Oref volumetric alerts, Groq intel reports | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-OSINT-Notifier) |
+| Red Alert OSINT Notifier | Unified notification + OSINT: Telegram monitors, Oref volumetric alerts, Groq intel, dual-model sitreps | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-OSINT-Notifier) |
 
 ---
 
