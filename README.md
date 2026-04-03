@@ -176,6 +176,14 @@ Data pipeline for Miklat MCP.
 
 ---
 
+### Public Shelter Internet Setup
+
+Makeshift DIY guide for getting internet into protected shelters in Israel.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Public-Shelter-Internet-Setup)
+
+---
+
 ## Red Alert Monitoring
 
 ### Awesome Red Alerts
