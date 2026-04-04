@@ -202,6 +202,16 @@ Android app for real-time visualization of Pikud HaOref alerts on an interactive
 
 ---
 
+### Israel Geomap APK
+
+Android APK for real-time Pikud HaOref alert visualization on interactive Leaflet maps. National view, Jerusalem close-up, and scrollable alert feed with color-coded alert polygons.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Geomap-APK)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Alert-Map)
+
+---
+
 ### Israel Emergency Readiness PWA
 
 Interactive PWA for Israel wartime emergency preparedness, based on Home Front Command guidance.
