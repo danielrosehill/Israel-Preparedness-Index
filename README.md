@@ -128,6 +128,14 @@ First aid procedures and decision-making flowchart based on MDA/Hatzalah procedu
 
 ---
 
+### Israel Home Front Ideas
+
+A few open source ideas for the Pikud HaOref system collected over time.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Home-Front-Ideas)
+
+---
+
 ## Home Assistant
 
 ### Alerts
