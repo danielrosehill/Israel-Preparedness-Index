@@ -104,6 +104,14 @@ Examples of situational reports (SITREPs) to guide agentic generation or general
 
 ## Guides
 
+### Family First Aid Android
+
+Offline Android first-aid app for families in Israel (MDA / Hatzalah): adult + child protocols, interactive decision flows, spaced review.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Family-First-Aid-Android)
+
+---
+
 ### HFC Guidance Flip Book
 
 Pikud HaOref guidance in a visual presentation for younger audiences.
@@ -117,14 +125,6 @@ Pikud HaOref guidance in a visual presentation for younger audiences.
 A consolidated series of readiness checklists, SOPs, and peacetime prep guides. Intended for civilian use in Israel. Non-official, but based on gov resources.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Civilian-Readiness-Guide)
-
----
-
-### Israel First Aid
-
-First aid procedures and decision-making flowchart based on MDA/Hatzalah procedures.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-First-Aid)
 
 ---
 
