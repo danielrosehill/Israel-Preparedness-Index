@@ -1,6 +1,6 @@
 # Israel Preparedness Repos - Index
 
-[![Master Index](https://img.shields.io/badge/Master_Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
+[![Master Index](https://img.shields.io/badge/Master_Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 Index of repositories related to civilian emergency preparedness in Israel, including red alert monitoring, Home Assistant integrations, shelters, and AI-assisted guidance.
 
