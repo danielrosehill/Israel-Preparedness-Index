@@ -4,6 +4,8 @@
 
 Index of repositories related to civilian emergency preparedness in Israel, including red alert monitoring, Home Assistant integrations, shelters, and AI-assisted guidance.
 
+**Last Updated:** October 2026
+
 ---
 
 ## AI Agents
@@ -220,14 +222,6 @@ Android APK for real-time Pikud HaOref alert visualization on interactive Leafle
 
 ---
 
-### Israel Emergency Readiness PWA
-
-Interactive PWA for Israel wartime emergency preparedness, based on Home Front Command guidance.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Emergency-Readiness-PWA)
-
----
-
 ### Red Alert Monitoring Stack
 
 Microservices Docker stack for Pikud HaOref red alert monitoring, home automation, and real-time visualization. Bundles the individual components below into a unified deployment.
@@ -252,16 +246,6 @@ Microservices Docker stack for Pikud HaOref red alert monitoring, home automatio
 Readiness SOPs for wartime in Israel.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Preparedness-SOPs)
-
----
-
-## Spaces
-
-### Claude Preparedness Planner
-
-Claude workspace for preparedness planning (template).
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Preparedness-Planner)
 
 ---
 
